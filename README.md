@@ -7,6 +7,9 @@ same corner the price goes into when trading, so the star sits on top of it.
 This mod moves the star to the bottom left corner of the same panel, the same
 distance in from the edge.
 
+![The item preview before and after](rarity-star.png)
+*In vanilla the star covers the price. The mod moves it to the left, making the price completely readable.*
+
 This mod is for the **alpha** build of Cube World.
 
 ## Installation
